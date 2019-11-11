@@ -1,0 +1,6 @@
+echo "# bookish-doodle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cwilson19-create/bookish-doodle.git
+git push -u origin master
